@@ -4,7 +4,7 @@ An end-to-end data analytics project uncovering revenue trends, customer segment
 
 ## Project Overview
 
-This project analyzes over 400,000 customer transactions (post-cleaning) from a real-world e-commerce dataset to deliver actionable business insights. Using Python for data cleaning and analysis, and Power BI for interactive visualization, the project enables data-driven decision-making across sales, marketing, and product teams.
+This project analyzes over 500,000 customer transactions (post-cleaning) from a real-world e-commerce dataset to deliver actionable business insights. Using Python for data cleaning and analysis, and Power BI for interactive visualization, the project enables data-driven decision-making across sales, marketing, and product teams.
 
 ## Business Questions Answered
 
